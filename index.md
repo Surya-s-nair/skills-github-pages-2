@@ -1,5 +1,5 @@
 # Hello!
-## Welcome to my blog---
+## Creative thoughts---
 title: Welcome to my blog
 ---
 
